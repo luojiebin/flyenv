@@ -6,7 +6,6 @@ a tool helps manage environment variable portably and safely
 Installation
 ------------
 
-::
     pip install pycrypto
     
     pip install flyenv
