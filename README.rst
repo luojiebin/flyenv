@@ -8,6 +8,7 @@ Installation
 
 ::
     pip install pycrypto
+    
     pip install flyenv
 
 
