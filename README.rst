@@ -7,7 +7,7 @@ Installation
 ------------
 
 ::
-
+    pip install pycrypto
     pip install flyenv
 
 
@@ -57,4 +57,4 @@ Then you can add this file to your git repository.
 
 ::
 
-    $flyenv descrypt secret_key[a string with length 16]
+   flyenv descrypt secret_key[a string with length 16]
